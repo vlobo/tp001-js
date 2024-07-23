@@ -5,3 +5,11 @@ Nota: Tener en cuenta la siguiente función: parseInt
 
 */
 
+const numero1 = parseInt(prompt("Ïngreso el primer Número"))
+
+const numero2 = parseInt(prompt("Ïngreso el Segundo Número"))
+
+
+resultado = numero1 + numero2
+
+document.write("el resultado es "+ resultado)

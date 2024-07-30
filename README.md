@@ -9,5 +9,6 @@ el mismo trabajo consta de 11 ejercicios con distinto tipos de dificiltad
 * *VisualStudio*
 * *JS*
 
+VALENTIN LOBO
 
 :::image type="content" source="img/js2.png" alt-text="":::
